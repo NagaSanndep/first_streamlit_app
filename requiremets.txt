@@ -1,4 +1,4 @@
 #requiremets.txt
-#snowflake_connector_python
+snowflake_connector_python
 
 
